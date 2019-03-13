@@ -5,4 +5,4 @@ Repo for storing code that manipulates data. Currently contains code that minifi
 **Jordan Bradford** - GitHub: [jrdnbradford](https://github.com/jrdnbradford)
 
 ## License
-[MIT](License.txt)
+[MIT](LICENSE.txt)
